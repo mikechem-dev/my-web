@@ -1,0 +1,27 @@
+{
+  "name": "webdev",
+  "version": "1.1.0",
+  "description": "web-assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikechem-dev/myweb.git"
+  },
+  "keywords": [
+    "webdevelopment",
+    "github"
+  ],
+  "author": "michael chemaka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikechem-dev/myweb/issues"
+  },
+  "homepage": "https://github.com/mikechem-dev/myweb#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
